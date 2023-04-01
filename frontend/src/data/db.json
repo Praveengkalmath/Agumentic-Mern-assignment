@@ -1,0 +1,52 @@
+{
+    "places": [
+      {
+        "id": 1,
+        "title": "Kavaratti",
+        "description":"Kavaratti is the capital of the Union Territory of Lakshadweep having ...",
+        "imgUrl":"https://tse1.mm.bing.net/th?id=OIP.7VBG1XSeDsEL1CWwjtKdcwHaE8&pid=Api&P=0",
+        "rating":"4.5 (1.5k review)"
+      },
+      {
+        "id": 2,
+        "title": "Kavaratti",
+        "description":"Kavaratti is the capital of the Union Territory of Lakshadweep having ...",
+        "imgUrl":"https://tse4.mm.bing.net/th?id=OIP.QvHP8SEoGZ6lBT3rIYA0LQHaEK&pid=Api&P=0",
+        "rating":"4.5 (1.5k review)"
+
+      },
+      {
+        "id": 3,
+        "title": "Kavaratti",
+        "description":"Kavaratti is the capital of the Union Territory of Lakshadweep having ...",
+        "imgUrl":"https://tse1.mm.bing.net/th?id=OIP.XBm3ZHEyceqO74TEdcu6QQHaE8&pid=Api&P=0",
+        "rating":"4.5 (1.5k review)"
+
+      },
+      {
+        "id": 4,
+        "title": "Kavaratti",
+        "description":"Kavaratti is the capital of the Union Territory of Lakshadweep having ...",
+        "imgUrl":"https://tse3.mm.bing.net/th?id=OIP.fQhzHvmDyZMZgMfyObAgPwHaFj&pid=Api&P=0",
+        "rating":"4.5 (1.5k review)"
+
+      },
+      {
+        "id": 5,
+        "title": "Kavaratti",
+        "description":"Kavaratti is the capital of the Union Territory of Lakshadweep having ...",
+        "imgUrl":"https://tse4.mm.bing.net/th?id=OIP.kMmxk9mfMMmzqz5fl7GGqwHaE7&pid=Api&P=0",
+        "rating":"4.5 (1.5k review)"
+
+      },
+      {
+        "id": 6,
+        "title": "Kavaratti",
+        "description":"Kavaratti is the capital of the Union Territory of Lakshadweep having ...",
+        "imgUrl":"https://tse4.mm.bing.net/th?id=OIP.yeWZx_CM6JomwKefDYI8yQHaE8&pid=Api&P=0",
+        "rating":"4.5 (1.5k review)"
+
+      }
+      
+    ]
+}
